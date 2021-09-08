@@ -1,0 +1,9 @@
+class Solution:
+    def maxArea(self, height):
+        
+
+
+
+d = Solution()
+d1 = d.maxArea([1,8,6,2,5,4,8,3,7])
+print(d1)
